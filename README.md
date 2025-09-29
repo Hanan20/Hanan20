@@ -5,7 +5,7 @@
 I design **AI-powered automation systems** that save creators & businesses 100s of hours.  
 I also leverage **data analysis** to uncover business challenges and apply **AI transformation consulting** to solve them.  
 
-But I don’t just build — I **share my journey online** through **TikTok, YouTube, and LinkedIn**, teaching others about automation, AI agents, and generative AI.  
+But I don’t just build, I **share my journey online** through **TikTok, YouTube, and LinkedIn**, teaching others about automation, AI agents, and generative AI.  
 
 ---
 
