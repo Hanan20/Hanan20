@@ -1,6 +1,6 @@
 # Hi, I’m Hanan 👋  
 
-🚀 **AI Automation Specialist | Data Analyst | Content Creator | Aspiring Generative AI Engineer**  
+🚀 **AI Automation Specialist | Data Analyst  | Aspiring Generative AI Engineer**  
 
 I build and deploy **AI-powered automation systems** that save creators & businesses 100s of hours.  
 I also leverage **data analysis** to uncover business problems and apply **AI transformation consulting** to solve them.  
@@ -22,13 +22,11 @@ But I don’t just build, I **share my journey online** through **TikTok, YouTub
 - **AI Transformation Consulting** – bridging data, automation & AI to solve real-world problems  
 - **Generative AI & Prompt Engineering** – designing effective prompts & fine-tuning LLM-powered workflows  
 - **Agentic AI Systems** – building the next wave of AI-driven assistants & automation tools  
-- **Content Creation & Education** – teaching AI, automation & data through tutorials, projects & social platforms  
 
 ---
 
 ### 🎯 My Mission  
-To combine **automation, AI, generative AI, and data analysis** into **scalable systems that transform businesses**.  
-I aspire to become a **subject matter expert in AI & Data**, while **educating others** and building a community around **AI automation & data-driven innovation**.  
+To combine **automation, AI, generative AI, and data analysis** into **scalable systems that transform businesses**.    
 
 ---
 
