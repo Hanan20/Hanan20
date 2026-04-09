@@ -2,10 +2,10 @@
 
 🚀 **Junior Software Engineer | AI Engineer**  
 
-I build and deploy **AI-powered automation systems** that save creators & businesses 100s of hours.  
-I also leverage **data analysis** to uncover business problems and apply **AI transformation consulting** to solve them.  
+I build and deploy **AI-powered systems** that save creators & businesses 100s of hours.  
+I also leverage data analysis to uncover business problems, and leveraging software engineering and AI technology transforms the development process  to solve them.  
 
-But I don’t just build, I **share my journey online** through **TikTok, YouTube, and LinkedIn**, teaching others about automation, AI agents, prompt engineering, and generative AI.  
+But I don’t just build, I **share my journey online** through **TikTok, YouTube, and LinkedIn**, teaching others about AI, AI agents, prompt engineering, and generative AI.  
 
 ---
 
