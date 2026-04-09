@@ -1,6 +1,6 @@
 # Hi, I’m Hanan 👋  
 
-🚀 **AI Automation Specialist | Data Analyst  | Aspiring Generative AI Engineer**  
+🚀 **Junior Software Engineer | Data Analyst  | Generative AI Engineer**  
 
 I build and deploy **AI-powered automation systems** that save creators & businesses 100s of hours.  
 I also leverage **data analysis** to uncover business problems and apply **AI transformation consulting** to solve them.  
