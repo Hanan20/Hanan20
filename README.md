@@ -55,4 +55,4 @@ To apply **machine learning, data, and AI systems** to solve meaningful real-wor
 
 ---
 
-💡 *Always learning, experimenting, and building AI systems that create real impact. Open to collaboration and opportunities in machine learning and applied AI.*
+💡 *Always learning, experimenting, and building AI systems that create real impact. Open to collaboration and opportunities in machine learning and AI.*
