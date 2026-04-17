@@ -1,41 +1,58 @@
 # Hi, I’m Hanan 👋  
 
-🚀 **Junior Software Engineer | AI Engineer**  
+🚀 **Machine Learning & AI Systems Engineer (Junior)**  
 
-I build and deploy **AI-powered systems** that save creators & businesses 100s of hours.  
-I also leverage data analysis to uncover business problems, and leveraging software engineering and AI technology transforms the development process  to solve them.  
+I build and deploy **machine learning and AI-powered systems** that solve real-world problems using data, automation, and scalable pipelines.  
 
-But I don’t just build, I **share my journey online** through **TikTok, YouTube, and LinkedIn**, teaching others about AI, AI agents, prompt engineering, and generative AI.  
+My work focuses on applying **machine learning, data engineering, and LLM-based systems** to transform complex datasets into practical, production-oriented solutions. I’m especially interested in **energy, infrastructure, and real-world data systems**, where AI can drive smarter decision-making.  
+
+I’m a **curious, self-driven learner** who enjoys experimenting with new tools, prototyping ideas, and continuously improving systems through iteration and evaluation.  
 
 ---
 
 ### 🔧 What I Build  
-- **Automation Systems (n8n, Zapier, Make.com)** – scalable, end-to-end business & content automations  
-- **Agentic AI Systems** – AI agents for workflow orchestration, business optimization & content pipelines  
-- **Data Analysis Projects** – Python (Pandas, SQL, Matplotlib) for insights & guiding AI adoption  
-- **Generative AI Projects** – LLM-powered apps, RAG systems & advanced **prompt engineering** for efficient, scalable solutions  
+
+- **Machine Learning Systems** – classification models, feature engineering, model evaluation, and experimentation on real-world datasets  
+- **Data Pipelines (ETL)** – end-to-end workflows for data collection, cleaning, transformation, and integration (structured + unstructured data)  
+- **AI & LLM Systems** – RAG pipelines, agentic workflows, and LLM integrations (OpenAI, Hugging Face)  
+- **Automation & Scalable Workflows** – production-oriented systems using APIs and orchestration tools (n8n)  
+- **GenAI Document Processing** – extracting structured data from PDFs and unstructured sources for downstream ML use  
 
 ---
 
 ### 🌱 What I Do  
-- **Data Analysis** – transforming raw data into insights & actionable strategies  
-- **AI Transformation Consulting** – bridging data, automation & AI to solve real-world problems  
-- **Generative AI & Prompt Engineering** – designing effective prompts & fine-tuning LLM-powered workflows  
-- **Agentic AI Systems** – building the next wave of AI-driven assistants & automation tools  
+
+- **Apply ML to real-world problems** – especially in data-rich environments like energy and infrastructure  
+- **Prototype and experiment with models** – testing algorithms (e.g., Random Forest, XGBoost) and improving performance through iteration  
+- **Design data workflows** – building pipelines that support model training, evaluation, and deployment  
+- **Work with messy, real-world data** – handling data quality issues, missing values, and inconsistencies  
+- **Integrate AI into systems** – connecting models, APIs, and data pipelines into usable applications  
+
+---
+
+### 🧠 Current Focus  
+
+- Machine Learning for **energy & infrastructure datasets**  
+- **Model evaluation, monitoring, and performance improvement**  
+- **LLM + ML hybrid systems** (RAG + structured data pipelines)  
+- Building **scalable, production-oriented AI systems**  
 
 ---
 
 ### 🎯 My Mission  
-To combine **automation, AI, generative AI, and data analysis** into **scalable systems that transform businesses**.    
+
+To apply **machine learning, data, and AI systems** to solve meaningful real-world problems—turning complex data into actionable insights and scalable solutions.  
 
 ---
 
 ### 📌 Featured Projects  
-- 🔗 **AI Shorts Automation System** – end-to-end pipeline for repurposing YouTube long-form into Shorts  
-- 🔗 **AI Newsletter Agent** – automated system for generating & sending personalized newsletters  
-- 🔗 **Data Analysis Projects** – hands-on work in Python, SQL & visualization  
-- 🔗 **Generative AI + Prompt Engineering** – experiments with LLMs, RAG, and custom agents  
+
+- 🔗 **Geothermal Scout (In Progress)** – ML-assisted system to identify and rank abandoned wells for geothermal repurposing  
+- 🔗 **AI Content Automation Pipeline** – scalable system for generating and publishing content using LLMs and automation workflows  
+- 🔗 **RAG Pipeline & Chatbot** – retrieval-based system using vector search for context-aware question answering  
+- 🔗 **AI Research Agent** – agentic workflow for automated research, summarization, and structured output generation  
+- 🔗 **AI Rental Management System** – platform to automate rent tracking, reminders, and landlord-tenant workflows  
 
 ---
 
-💡 *Always open to collaboration, feedback, and opportunities to build impactful AI-powered systems.*  
+💡 *Always learning, experimenting, and building AI systems that create real impact. Open to collaboration and opportunities in machine learning and applied AI.*
